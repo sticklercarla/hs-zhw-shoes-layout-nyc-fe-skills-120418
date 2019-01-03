@@ -24,4 +24,21 @@
 
 /* Positioning Classes */
 
-
+.small {
+  width: 100%;
+}
+.med {
+  width: 200%;
+  height: 200%;
+}
+.large {
+  width: 200%;
+}
+.column {
+  width: 33%;
+  display: inline-block;
+  
+}
+.border_right {
+  display: float;
+}
